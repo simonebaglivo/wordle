@@ -1,0 +1,96 @@
+.overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+
+.modal {
+  position: relative;
+  background: #121213;
+  border: 1px solid #3a3a3c;
+  border-radius: 8px;
+  padding: 24px 32px;
+  width: min(90vw, 420px);
+  color: #fff;
+  text-align: center;
+}
+
+.close {
+  position: absolute;
+  top: 8px;
+  right: 12px;
+  background: none;
+  border: none;
+  color: #818384;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.reveal {
+  color: #b59f3b;
+}
+
+.reveal strong {
+  text-transform: uppercase;
+}
+
+.grid {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin: 16px 0;
+}
+
+.value {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.label {
+  font-size: 0.75rem;
+  color: #818384;
+}
+
+.distribution {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 20px;
+}
+
+.distRow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.distIndex {
+  width: 1em;
+  color: #818384;
+}
+
+.distBar {
+  background: #538d4e;
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-align: right;
+  padding: 2px 6px;
+  border-radius: 2px;
+  min-width: 1.5em;
+}
+
+.newGame {
+  background: #538d4e;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+}

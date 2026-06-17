@@ -1,0 +1,36 @@
+.keyboard {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 24px;
+}
+
+.krow {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+}
+
+.key {
+  min-width: 36px;
+  height: 52px;
+  padding: 0 10px;
+  border: none;
+  border-radius: 4px;
+  background: #818384;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.wide {
+  min-width: 60px;
+  font-size: 0.75rem;
+}
+
+.correct { background: #538d4e; }
+.present { background: #b59f3b; }
+.absent { background: #3a3a3c; }
