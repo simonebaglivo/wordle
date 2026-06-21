@@ -482,3 +482,6 @@ more
 this
 what
 when
+
+# --- Parole coniugate da togliere ---
+eravate
