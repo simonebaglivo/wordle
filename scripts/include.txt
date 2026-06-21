@@ -1,5 +1,6 @@
 # Parole da includere SEMPRE tra le soluzioni (targetWords) e i tentativi
-# validi (validWords), anche se assenti dalle liste sorgente.
+# validi (validWords), anche se assenti dal dizionario di base (~60.000).
+# Da usare per eventuali mancanze: parole legittime che il dizionario non ha.
 # Una parola per riga. Righe vuote e righe che iniziano con # vengono ignorate.
 # Gli accenti vengono normalizzati automaticamente (città -> citta).
 # Dopo aver modificato questo file: node scripts/build-words.mjs

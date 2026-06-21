@@ -15,6 +15,15 @@ subsfactory
 subspedia
 synch
 
+# --- Refusi del dizionario napolux (stringhe rotte / lettere doppie) ---
+dfgdgdfgdfgdfg
+apppare
+immmediata
+retribuiii
+gjiaccerei
+pupull
+prill
+
 # --- Nomi propri (persone, citta) ---
 abby
 alexander
@@ -485,3 +494,79 @@ when
 
 # --- Parole coniugate da togliere ---
 eravate
+
+# --- Volgarità (gioco adatto a tutti) ---
+culo
+cesso
+bastardo
+
+# --- Coniugazioni scomode come soluzione (congiuntivo imperfetto, passato
+# remoto plurale, condizionale): parole vere ma ingiocabili come "parola del
+# giorno". I nomi/aggettivi con stessa desinenza (assi, classi, passi, messi,
+# interessi, celeste...) sono TENUTI di proposito. ---
+abbassi
+aiutassi
+amassi
+andammo
+andarono
+andassi
+arrivammo
+arrivarono
+arrivassi
+aspettassi
+avessi
+aveste
+avremmo
+avreste
+chiamassi
+chiedessi
+conoscessi
+credessi
+dessi
+dicessi
+dissi
+diventassi
+dovessi
+dovremmo
+dovreste
+facessi
+faremmo
+fareste
+iniziarono
+lasciarono
+lasciassi
+lavorassi
+mettessi
+morirono
+morissi
+nascessi
+odiassi
+parlassi
+pensassi
+portarono
+portassi
+potessi
+poteste
+potremmo
+potreste
+prendessi
+provassi
+restassi
+ricordassi
+riuscissi
+sapessi
+sapeste
+saremmo
+sareste
+scoprissi
+sentissi
+staremmo
+stessi
+tornassi
+trovammo
+trovarono
+vedessi
+venissi
+volessi
+vorremmo
+vorreste
